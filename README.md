@@ -60,10 +60,10 @@
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **ASCII Video Renderer** | Real-time command-line application converting live webcam feeds into low-latency terminal ASCII characters with buffer mapping. | `Python`, `OpenCV`, `CLI` | [Repository](https://github.com/Noelpm14) |
-| **Movie Reservation System** | Relational booking backend managing concurrent seat allocations, ticket integrity, and relational tables. | `Python`, `SQLite` | [Repository](https://github.com/Noelpm14) |
-| **Repo Roaster** | Web inspection tool analyzing repository codebases and generating structured technical code critiques via API pipeline. | `Next.js`, `TypeScript`, `API` | [Repository](https://github.com/Noelpm14) |
-| **Atelier Flora** | Storefront web application featuring modular components, responsive architecture, and optimized client navigation. | `React`, `Next.js`, `Tailwind` | [Repository](https://github.com/Noelpm14) |
+| **ASCII Video Renderer** | Real-time command-line application converting live webcam feeds into low-latency terminal ASCII characters with buffer mapping. | `Python`, `OpenCV`, `CLI` | [Repository](https://github.com/Noelpm14/ASCII-Renderer-Cam) |
+| **Movie Reservation System** | Relational booking backend managing concurrent seat allocations, ticket integrity, and relational tables. | `Python`, `SQLite` | [Repository](https://github.com/Noelpm14/Movie-Reservation-System) |
+| **Repo Roaster** | Web inspection tool analyzing repository codebases and generating structured technical code critiques via API pipeline. | `Next.js`, `TypeScript`, `API` | [Repository](https://github.com/Noelpm14/Repo-Roaster) |
+| **Atelier Flora** | Storefront web application featuring modular components, responsive architecture, and optimized client navigation. | `React`, `Next.js`, `Tailwind` | [Repository](https://github.com/Noelpm14/atelier-flora) |
 | **Spider Verse AR** | A browser-based Spider-Verse augmented reality camera.| `WebGL`, `Next.js`, `Tailwind` | [Repository](https://github.com/Noelpm14/Spider-Verse-AR) |
 
 ---
