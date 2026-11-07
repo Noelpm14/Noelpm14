@@ -1,6 +1,5 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · NOELPM14 · LIVE</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=noelpm14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319012195%3Fu%3D9f7ac90a87d843268bb291357a0c18dea869396d%26v%3D4&variant=living-identity&label=Noel%20Mathew&v=wow-living-identity-1&mode=light" />
